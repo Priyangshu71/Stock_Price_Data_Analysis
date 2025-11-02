@@ -1,7 +1,7 @@
 # Data Analysis Project: Stock Price Analysis and Forecasting
 ## Overview
 
-This repository contains the code and analysis for my data analysis project on stock price analysis and forecasting for my Internal attachment at Jomo Kenyatta University of Agriculture and Technology. The project analyzes historical stock price data, visualizes trends, and develops a forecasting model using Python and data science techniques.
+This repository contains the code and analysis for my data analysis project on stock price analysis and forecasting . The project analyzes historical stock price data, visualizes trends, and develops a forecasting model using Python and data science techniques.
 
 ## Project Structure
 
