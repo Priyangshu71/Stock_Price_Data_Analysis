@@ -46,10 +46,7 @@ jupyter notebook Stock_price_analysis.ipynb
 Follow the step-by-step instructions in the notebook to reproduce the data analysis process, including loading the dataset, performing data wrangling, conducting exploratory data analysis, and showing the stock price correlation visualization.
 
 ## Data Source
-The dataset used in this project is sourced from the ALPHA VANTAGE API (https://www.alphavantage.co/) and comprises historical stock price data for companies listed on the New York Stock Exchange. The dataset spans from January 1, 2013, to December 31, 2018, providing a rich daily stock price information repository. 
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+The dataset used in this project is sourced from the ALPHA VANTAGE API (https://www.alphavantage.co/) and comprises historical stock price data for companies listed on the New York Stock Exchange. The dataset spans from January 1, 2013, to December 31, 2018, providing a rich daily stock price information repository.
 
 
 
